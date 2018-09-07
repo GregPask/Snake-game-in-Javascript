@@ -1,0 +1,38 @@
+h2 {
+   
+    font-size: 3em;
+    color: #8899AA;
+}
+
+canvas {
+    background-color: #000000;
+    color: #E94B3C;
+    border: 2px solid rgb(14, 22, 31);
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+    background-color:rgb(35, 78, 121);
+  
+    border-radius: 2em;
+    max-width: 460px;
+    margin-top: 5em;
+    padding: 0.5em;
+    min-width: 310px;
+    border: 1px solid black;
+    color: #E94B3C;
+    border: 1px solid rgb(43, 27, 27);
+    height: 500px;
+}
+ 
+body {
+    font-family: 'Work Sans', sans-serif;
+    background-color: rgb(14, 22, 31);
+    color: 
+}
+
+button {
+    background-color: rgb(121, 92, 20);
+    color: #ccc;
+}
