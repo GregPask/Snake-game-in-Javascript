@@ -21,15 +21,20 @@ let ingame = true;
 // <!--------------------------------------------------->
 
 /*
-
 Button is clicked to start the game.
 We create our snake and find a position for the apple...
 We then call the update game function which in turn renders our content...
-
 */
+
+button = document.getElementById("btn1");
+button.addEventListener("click",startGame,false);
+
 
 function startGame() {
 
+  button.removeEventListener("click",startGame,false);
+ 
+  
 createSnake();
 createApple();
 setTimeout("updateGame();", 100);
