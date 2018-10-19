@@ -1,2 +1,2 @@
-# Snake-game-in-Javscript
-My 2nd attempt at making Snake in Javscript
+# Snake-game-in-Javascript
+My 2nd attempt at making Snake in Javascript
