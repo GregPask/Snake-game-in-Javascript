@@ -1,2 +1,10 @@
 # Snake-game-in-Javascript
-My 2nd attempt at making Snake in Javascript
+
+# Live Version
+
+https://snake-canvas.netlify.com/
+
+
+Snake game made using HTML5 Canvas and vanilla JS.
+
+
